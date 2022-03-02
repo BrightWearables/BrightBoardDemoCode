@@ -2,7 +2,7 @@
 
 [BrightBoard learning resources](http://brightwearables.com/learn/)
 
-[MakeCode Link](https://makecode.microbit.org/)
+[MakeCode code editor link](https://makecode.microbit.org/)
 
 [Import the BrightBoard code menu into MakeCode](https://brightwearables.com/adding-bright-board-code-blocks-to-makecode/)
 
